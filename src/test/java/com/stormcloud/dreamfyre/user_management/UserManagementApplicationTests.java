@@ -1,4 +1,4 @@
-package com.dreamfyre.user_management;
+package com.stormcloud.dreamfyre.user_management;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

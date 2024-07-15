@@ -1,4 +1,4 @@
-package com.dreamfyre.user_management;
+package com.stormcloud.dreamfyre;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
